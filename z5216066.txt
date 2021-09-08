@@ -1,0 +1,48 @@
+work dairy 
+Gewei Cheng
+z5216066
+
+week 1
+In this week, I have been familier with the outline of COMP9900 ,and got start to prepare for this. 
+  1. create an account for Jira and join our group
+  2. join gihHub group 
+  3. finish my part (part 5) of user story and brain storming ideas of our project
+  4. join the group meeting and discuss our work for week 1
+  
+
+week 2
+In this week, I have 
+  1. drew the ER diagram for our MyRecipe project and drew the relational model based on the ER diagram
+  2. create prototype of our MyRecipe based on the final version of user story and UI design by my team mates
+  
+week 3
+In this week, I have
+  1. promote the prototype of our project(Foodies) based on the results of team meeting
+  2. create an initial version of frontend of out project
+  3. publish initial route to dashboard page, login page and register page
+  
+  
+week 4
+In this week, I have
+  1. created the first version of userProfile pages based on the UI design by team mate
+  2. created the first version of userDetails display and achieve userDtail Update functions
+  3. showed the page described in 1 and 2, and communicated with backend developer with data interaction on the team meeting
+  
+week 5
+In this week, I have
+  1. develop the userProfile pages to the second version and call the data from server and display
+  2. create the popup windows of following and followers
+  3. add jump function to the part of recipes
+  4. showe the page described in 1, 2 and 3 on the team meeting
+  
+week 6 
+In this week, I have
+   1. rearrange the display of users Information to simplify the structure of codes
+   2. fix some bugs while calling datas from server
+   3. show the final version of userProfile pages on the team meeting
+   
+week 7
+In this week, I have
+  1. fix some bugs of data shown and data interaction
+  2. text the function of the my part of woek 
+  

@@ -1,0 +1,56 @@
+Work Diary 
+Lijun Zhong 
+z5243425
+
+Week 1
+  1. Be Familiar with jira and github
+  2. Writing User Story based on the guideline
+
+Week 2
+  1. Rewrite User Stories in details for part "Feed" and "Bonus".
+  2. Writing the background part for proposal.
+  3. Draw StoryBoards of User story.
+  4. Plan on the sprint time schedule.
+
+Week 3
+  1. Consummate Flow diagrams for proposal.
+  2. Design LOGO for project.
+  3. Proposal FFormatting checked
+  4. Familiar with Backend.
+  
+Week 4
+  1. Setup the Navbar layouts and functions (Client).
+  2. Write some script to setup frontend and Backend once at a time.
+  3. Setup the register page and its function (Client).
+  4. Setup serach box layouts.
+
+Week 5
+  1. Deliver demonstration A for the group.
+  2. Set private function on recipes.
+  3. Debug Profile updating function (Client).
+  4. Setup prototype of landing page with 'My subscription' and 'Guess you like'.
+
+Week 6
+  1. Initiate the recipe viewing page with recipe cards and recipe display box.
+  2. Setup Page footer for whole.
+  3. Optimze the recipe viewing page.
+  4. Initiate recipe editting page basic layouts.
+  5. Setupe recipe photo uploading function (Client).
+  6. Finish Edit & Create recipe function (Client).
+
+Week 7
+  1. Fix bug: Navbar to creating page.
+  2. Setup like function (Client): when loggin click like button will add one onto like number.
+  3. Setup like function (Client): when not loggin click like button will led to login page.
+  4. Fix bug of likeNum display on recipe page.
+  5. Fix bugs on margin display.
+  6. Link comment component into recipe page.
+  7. Setup like function (Client):  when loggin user can leave comments and delete own comments
+  8. Setup like function (Client) :  when not loggin user need to login to leave comment but could see comments already there.
+
+Week 8
+  1. Layouts change based on given advise from Dominic.
+  2. Change Avatar colors.
+  3. Deliver demonstration B for the group.
+  4. Discuss the solution for search engine and run test.
+  5. Font format on whole website.
